@@ -2,9 +2,13 @@ TongueTechAI - Tongue Cancer Detection System
 Project Overview
 TongueTechAI is an AI-powered web application that detects early signs of tongue cancer through non-invasive tongue image analysis. Combining deep learning with medical diagnostics, the system helps identify potential malignant features and provides risk assessment with actionable insights.
 
-https://github.com/DreamfortiX/TongueTechAi/blob/main/TONGUE1.png
-https://github.com/DreamfortiX/TongueTechAi/blob/main/TONGUE2.png
-https://github.com/DreamfortiX/TongueTechAi/blob/main/TONGU32.png
+Visual Demonstration
+1. Main Interface
+<img src="https://github.com/DreamfortiX/TongueTechAi/blob/main/TONGUE1.png" width="500" alt="Main Interface">
+2. Cancer Detection Analysis
+<img src="https://github.com/DreamfortiX/TongueTechAi/blob/main/TONGUE2.png" width="500" alt="Analysis Screen">
+3. Results & Recommendations
+<img src="https://github.com/DreamfortiX/TongueTechAi/blob/main/TONGU32.png" width="500" alt="Results Screen">
 
 Key Features
 ✔ AI-Powered Cancer Detection – Uses YOLOv4-tiny (for lesion detection) and DenseNet-121 (for malignancy classification).
